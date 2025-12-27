@@ -1,0 +1,5 @@
+Flask
+flask-restx
+werkzeug
+python-dotenv
+gunicorn
