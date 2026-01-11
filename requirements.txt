@@ -3,3 +3,4 @@ flask-restx
 werkzeug
 python-dotenv
 gunicorn
+flasgger
